@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\PauloSergioAlvesdosS\Documents\intelli\dadosservidoresapi\DadosServidoresAPI\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-04-13T19:18:51.2787498Z;True|2022-04-13T15:21:40.1090960-03:00;True|2022-04-11T10:23:37.8021080-03:00;True|2022-04-11T10:21:54.7560099-03:00;True|2021-10-29T17:39:06.5495650-03:00;True|2021-10-28T17:25:03.0428694-03:00;True|2021-10-28T16:39:14.5839862-03:00;</History>
+  </PropertyGroup>
+</Project>
